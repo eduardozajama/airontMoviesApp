@@ -1,0 +1,36 @@
+{"movies": [
+    {
+    "id":1,
+    "name": "Avatar 2",
+    "genre":"Science Fiction",
+    "rating": "5",
+    "overview": " Set more than a decade after the events of the first film, Avatar: The Way of Water begins to tell the story of the Sully family, the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "image": "../images/avatar.svg"
+    },
+    {
+    "id":2,
+    "name": "Prey",
+    "genre":"Science Fiction",
+    "rating": "5",
+    "overview": "In 1719 in the Great Plains, Naru, a young Comanche woman trained as a healer, dreams of becoming a great hunter.",
+    "image": "../images/prey.svg"
+    },
+    {
+        "id":3,
+        "name": "Jurassic World: Dominion",
+        "genre":"Science Fiction",
+        "rating": "5",
+        "overview": "Four years after the Lockwood Estate incident and the cataclysmic volcanic eruption on Isla Nublar.",
+        "image": "../images/jurasic.svg"
+    },
+    {
+        "id":4,
+        "name": "Godzilla vs Kong",
+        "genre":"Science Fiction",
+        "rating": "5",
+        "overview": "Five years after Godzilla defeated King Ghidorah, Kong is monitored by Monarch within a giant dome on Skull Island. ",
+        "image": "../images/godzilla.svg"
+    }
+]
+}
+    
